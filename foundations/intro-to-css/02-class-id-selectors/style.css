@@ -1,0 +1,16 @@
+.number {
+  background-color: #FF000050;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#one {
+  color: #0000FF;
+  font-size: 36px;
+}
+.number.cooler {
+  font-size: 24px;
+}
+#another {
+  background-color: #00FF0050;
+  font-size: 24px;
+  font-weight: 700;
+}
